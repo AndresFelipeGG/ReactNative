@@ -7,7 +7,6 @@ class Competitions extends Component {
         this.state = {
             isLoading: true,
             modalVisible: false,
-            competition,
         }
     }
     setModalVisible(visible) {
